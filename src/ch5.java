@@ -1,6 +1,7 @@
 public class ch5 {
     public static void main(String[] args) {
-        System.out.println(getDurationString(3601));
+        System.out.println(getDurationString(35));
+        System.out.println(getDurationString(68,54));
 
     }
     public static String getDurationString(int seconds){
@@ -22,9 +23,9 @@ public class ch5 {
 
 
             int secsRemainsFromMinute = minutes % 60;
-            int remainingSecs = seconds % 60;
+            int remainingSecs = seconds%60;
 
-            return hour + "hr" + secsRemainsFromMinute + "min" + remainingSecs;
+            return hour + "hr" + secsRemainsFromMinute + "min" + remainingSecs+"sec";
         }
         else{
             return "nothing";
