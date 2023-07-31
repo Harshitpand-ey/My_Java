@@ -1,18 +1,22 @@
 public class checka {
     public static void main(String[] args) {
-        checkNumber(5);
+        System.out.println(getLargestPrime(21));
     }
-    public static void checkNumber(int number){
-        if (number > 0) {
-                System.out.println("positive");
-            } else if (number < 0) {
-                System.out.println("negative");
 
-            } else {
-                System.out.println("zero");
+
+        public static int getLargestPrime(int number){
+            int largestfactor=0;
+            if(number<2){
+                return -1;
             }
-
+            for(int divisor=number-1;divisor>=2;divisor--){
+                if(number%divisor==0){
+                    number=divisor;
+                }
+            }
+            return number;
 
         }
     }
+
 

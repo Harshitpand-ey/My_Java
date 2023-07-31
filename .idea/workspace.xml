@@ -5,23 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12e18450-85df-4b55-bd83-bf88735c067a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ch6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch7B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enhancedSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forLoop1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forLoop2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forLoop3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringSwitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yieldKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS1_Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/add1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/breakInLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch14Calling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch9Debugger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/continueBreakWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/diagonalStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/doWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oopsCalling1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/parsingValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primeNumberChallange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/takingInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/try_CatchErrorHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/while2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/whileContinue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/checka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/checka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/forLoop3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/forLoop3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -49,41 +68,46 @@
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip",
     "onboarding.tips.debug.path": "C:/Users/KIIT/IdeaProjects/My Java/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
     "two.files.diff.last.used.file": "C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip!/FirstMethodsChallenge/src/MethodChallenge.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.forLoop3">
-    <configuration name="ch7B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch7B" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ndjr" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ch14Calling">
+    <configuration name="add1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="add1" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forLoop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forLoop1" />
+    <configuration name="ch13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch13" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forLoop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forLoop2" />
+    <configuration name="ch14Calling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch14Calling" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="forLoop3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="forLoop3" />
+    <configuration name="checingCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="checingCalling" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rough" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rough" />
+    <configuration name="oopsCalling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oopsCalling1" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.forLoop3" />
-        <item itemvalue="Application.forLoop2" />
-        <item itemvalue="Application.forLoop1" />
-        <item itemvalue="Application.rough" />
-        <item itemvalue="Application.ch7B" />
+        <item itemvalue="Application.ch14Calling" />
+        <item itemvalue="Application.checingCalling" />
+        <item itemvalue="Application.oopsCalling1" />
+        <item itemvalue="Application.add1" />
+        <item itemvalue="Application.ch13" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689527283576</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commiting file">
+      <option name="closed" value="true" />
+      <created>1689699950102</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1689699950102</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -187,8 +219,39 @@
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch9Debugger.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch10.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/checka.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/checka.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ch12.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="num%3==0" language="JAVA" />
+        <watch expression="num%5==0" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
