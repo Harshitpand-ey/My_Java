@@ -5,34 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12e18450-85df-4b55-bd83-bf88735c067a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OOPS1_Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/add1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/breakInLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14Calling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch9Debugger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/continueBreakWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/diagonalStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/doWhile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oopsCalling1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/parsingValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/primeNumberChallange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/takingInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/try_CatchErrorHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/while1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/while2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whileBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whileContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Static.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch_Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch_CustomerCalling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructor1_Calling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructorChaining1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constructorChaining1_Calling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectOfHouse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/checka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/checka.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/forLoop3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/forLoop3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch14BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch14BankAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +46,12 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17",
     "last_opened_file_path": "C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip",
     "onboarding.tips.debug.path": "C:/Users/KIIT/IdeaProjects/My Java/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.sourceCode",
+    "settings.editor.selected.configurable": "editor.reader.mode",
     "two.files.diff.last.used.file": "C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip!/FirstMethodsChallenge/src/MethodChallenge.java"
   }
 }]]></component>
@@ -77,37 +60,37 @@
       <command value="ndjr" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.ch14Calling">
-    <configuration name="add1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="add1" />
+  <component name="RunManager" selected="Application.Instance">
+    <configuration name="Instance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Instance" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch13" />
+    <configuration name="OOPS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS2" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch14Calling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14Calling" />
+    <configuration name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Static" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checingCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="checingCalling" />
+    <configuration name="ch_CustomerCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch_CustomerCalling" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oopsCalling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oopsCalling1" />
+    <configuration name="objectOfHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="objectOfHouse" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -115,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch14Calling" />
-        <item itemvalue="Application.checingCalling" />
-        <item itemvalue="Application.oopsCalling1" />
-        <item itemvalue="Application.add1" />
-        <item itemvalue="Application.ch13" />
+        <item itemvalue="Application.Instance" />
+        <item itemvalue="Application.Static" />
+        <item itemvalue="Application.OOPS2" />
+        <item itemvalue="Application.objectOfHouse" />
+        <item itemvalue="Application.ch_CustomerCalling" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689699950102</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commiting file">
+      <option name="closed" value="true" />
+      <created>1690831505150</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690831505150</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

@@ -4,7 +4,7 @@ public class ch14BankAccount {
     private String AccountHolderName;
     private String AccountHolderEmail;
     private String AccouuntHolderPhoneNo;
-    public ch14BankAccount(){
+    public ch14BankAccount(){//its name is same as class name or file name
         System.out.println("empty constructor called");//constructor it is basically default constructor
     }
 public void depositFund(double amount){
