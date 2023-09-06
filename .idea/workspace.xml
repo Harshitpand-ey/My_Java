@@ -5,18 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12e18450-85df-4b55-bd83-bf88735c067a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Instance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch_Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch_CustomerCalling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructor1_Calling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChaining1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constructorChaining1_Calling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/objectOfHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dog1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaLangObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PojoClassStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String_Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentLpaByRecordType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student_Pojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Student_Record.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bulletPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch_inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/formatSpecifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/formattedString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/instanceMethod_Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/man1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiLineString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/staticMethod_Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twelve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twoDArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/xxxx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch14BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch14BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constructorChaining1_Calling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructorChaining1_Calling.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +58,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Record" />
         <option value="Class" />
       </list>
     </option>
@@ -36,73 +66,83 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/oopsCalling1.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="2SIf0h3uR2v0QGSxFZjFUZXPqKy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip",
-    "onboarding.tips.debug.path": "C:/Users/KIIT/IdeaProjects/My Java/src/Main.java",
-    "settings.editor.selected.configurable": "editor.reader.mode",
-    "two.files.diff.last.used.file": "C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip!/FirstMethodsChallenge/src/MethodChallenge.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/KIIT/IdeaProjects/My Java/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip!/FirstMethodsChallenge/src/MethodChallenge.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="ndjr" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Instance">
-    <configuration name="Instance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Instance" />
+  <component name="RunManager" selected="Application.String_Builder">
+    <configuration name="StringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringManipulation" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPS2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OOPS2" />
+    <configuration name="String_Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String_Builder" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Static" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Static" />
+    <configuration name="cl10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl10" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch_CustomerCalling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch_CustomerCalling" />
+    <configuration name="hji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hji" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="objectOfHouse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="objectOfHouse" />
+    <configuration name="sortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sortArray" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.StringManipulation" />
+      <item itemvalue="Application.String_Builder" />
+      <item itemvalue="Application.cl10" />
+      <item itemvalue="Application.hji" />
+      <item itemvalue="Application.sortArray" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Instance" />
-        <item itemvalue="Application.Static" />
-        <item itemvalue="Application.OOPS2" />
-        <item itemvalue="Application.objectOfHouse" />
-        <item itemvalue="Application.ch_CustomerCalling" />
+        <item itemvalue="Application.String_Builder" />
+        <item itemvalue="Application.StringManipulation" />
+        <item itemvalue="Application.sortArray" />
+        <item itemvalue="Application.hji" />
+        <item itemvalue="Application.cl10" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1690831505150</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commiting file">
+      <option name="closed" value="true" />
+      <created>1691489694952</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691489694952</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -235,6 +283,10 @@
           <line>1</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArithmeticException" package="java.lang" />
+          <option name="timeStamp" value="18" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>

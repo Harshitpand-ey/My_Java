@@ -1,7 +1,7 @@
 public class ch3 {
 
     public static void main(String[] args) {
-       int highScoreposition=calculateHighScorePosition(1500);
+       int highScoreposition=calculateHighScorePosition(1500);//highScoreposition assigned by calculateHighScorePosition
        displayHighScorePosition("Tim",highScoreposition);
          highScoreposition=calculateHighScorePosition(900);
         displayHighScorePosition("Tim",highScoreposition);
