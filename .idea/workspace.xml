@@ -5,47 +5,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12e18450-85df-4b55-bd83-bf88735c067a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dog1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JavaLangObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PojoClassStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringManipulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String_Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentLpaByRecordType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student_Pojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student_Record.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bulletPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch_inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cl9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eleven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formatSpecifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/formattedString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hji.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/inheritance_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/instanceMethod_Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/man1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiLineString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/staticMethod_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twelve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoDArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xxxx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Abstract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BufferReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EnhancedPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PolymorphismReturnSwitch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RuntimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2D1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/block.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cl28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composition1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/extendFourth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fileBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fourth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hsjw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/jki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/klo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kulu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/olution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/personalComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recursion4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/second.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sixth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/smartKitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tool/InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tool/Money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tool/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yuio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/constructorChaining1_Calling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constructorChaining1_Calling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cl8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cl8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/subtraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tool/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +84,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Record" />
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -82,67 +108,78 @@
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/KIIT/IdeaProjects/My Java/src/Main.java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KIIT/IdeaProjects/My Java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/KIIT/OneDrive/Desktop/30th/untitled/src/Main.java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/KIIT/OneDrive/Desktop/@/code-for-compare.zip!/FirstMethodsChallenge/src/MethodChallenge.java&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\KIIT\IdeaProjects\My Java\src\tool" />
+    </key>
+  </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="ndjr" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.String_Builder">
-    <configuration name="StringManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringManipulation" />
+  <component name="RunManager" selected="Application.ExceptionHandling1">
+    <configuration name="ExceptionHandling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling1" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Builder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String_Builder" />
+    <configuration name="InnerClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tool.InnerClass" />
+      <module name="My Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Recursion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion1" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cl10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cl10" />
+    <configuration name="recursion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion2" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hji" />
-      <module name="My Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortArray" />
+    <configuration name="recursion4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="recursion4" />
       <module name="My Java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringManipulation" />
-      <item itemvalue="Application.String_Builder" />
-      <item itemvalue="Application.cl10" />
-      <item itemvalue="Application.hji" />
-      <item itemvalue="Application.sortArray" />
+      <item itemvalue="Application.ExceptionHandling1" />
+      <item itemvalue="Application.Recursion1" />
+      <item itemvalue="Application.recursion2" />
+      <item itemvalue="Application.recursion4" />
+      <item itemvalue="Application.InnerClass" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String_Builder" />
-        <item itemvalue="Application.StringManipulation" />
-        <item itemvalue="Application.sortArray" />
-        <item itemvalue="Application.hji" />
-        <item itemvalue="Application.cl10" />
+        <item itemvalue="Application.ExceptionHandling1" />
+        <item itemvalue="Application.recursion4" />
+        <item itemvalue="Application.recursion2" />
+        <item itemvalue="Application.Recursion1" />
+        <item itemvalue="Application.InnerClass" />
       </list>
     </recent_temporary>
   </component>
@@ -243,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691489694952</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="commiting file">
+      <option name="closed" value="true" />
+      <created>1694034096030</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1694034096030</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -282,6 +327,11 @@
           <url>file://$PROJECT_DIR$/src/ch12.java</url>
           <line>1</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$USER_HOME$/OneDrive/Desktop/30th/untitled/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArithmeticException" package="java.lang" />
