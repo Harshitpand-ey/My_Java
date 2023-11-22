@@ -1,4 +1,5 @@
-public class diagonalStar {
+public class
+diagonalStar {
     public static void main(String[] args) {
 
         System.out.print(printSquareStar(7));

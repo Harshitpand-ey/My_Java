@@ -30,7 +30,7 @@ public class cl27 {
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter the basic salary");
         double basic= sc.nextDouble();
-        Manager ob=new Manager();
+        SubStaff ob=new SubStaff();
         System.out.println("Earning is ="+ob.earnings(basic));
         System.out.println("Deduction is ="+ob.deduction(basic));
         System.out.println("Bonus is ="+ob.bonus(basic));
